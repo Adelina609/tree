@@ -1,0 +1,30 @@
+#correct{
+
+    -fx-background-image: url("https://pm1.narvii.com/7145/f2cf6ad24c0c486bdc39c4c74ef26ed2acbf9a6fr1-800-450v2_hq.jpg");
+    -fx-min-width: 600;
+    -fx-min-height: 400;
+    -fx-max-height: 600;
+    -fx-max-width: 400;
+    -fx-background-size: cover, auto;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-font-size: 28;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+
+}
+
+#wrong {
+    -fx-background-image: url("https://s8.hostingkartinok.com/uploads/images/2018/11/8e3ec5832fac8194bc6b4daff49236dd.png");
+    -fx-min-width: 600;
+    -fx-min-height: 400;
+    -fx-max-height: 600;
+    -fx-max-width: 400;
+    -fx-background-size: cover, auto;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-font-size: 28;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
